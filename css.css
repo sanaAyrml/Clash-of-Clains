@@ -1,0 +1,61 @@
+.scroll-pane {
+    -fx-background-size: 100% 100%;
+    -fx-background-color: transparent;
+    /*-fx-hbar-policy: never;*/
+    /*-fx-vbar-policy: never;*/
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+    /*-fx-hbar-policy: never;*/
+    /*-fx-vbar-policy: never;*/
+}
+
+.scroll-pane .content {
+    -fx-background-color: transparent;
+    /*-fx-hbar-policy: never;*/
+    /*-fx-vbar-policy: never;*/
+}
+
+.scroll-bar.scroll-bar{
+    -fx-background-color: #503a1b;
+}
+.scroll-bar.viewport{
+    -fx-background-color: #d2a679;
+}
+.scroll-bar.progress-bar{
+    -fx-background-color: #070502;
+}
+
+/*!* Track *!*/
+/*::-webkit-scrollbar-track {*/
+    /*background: #f1f1f1;*/
+/*}*/
+
+/*!* Handle *!*/
+/*::-webkit-scrollbar-thumb {*/
+    /*background: #888;*/
+/*}*/
+
+/*!* Handle on hover *!*/
+/*::-webkit-scrollbar-thumb:hover {*/
+    /*background: #555;*/
+/*}*/
+ /*.scroll-pane .Container*/
+ /*{*/
+     /*height: 200px;*/
+     /*overflow-x: auto;*/
+ /*}*/
+/*.Content*/
+/*{*/
+    /*height: 300px;*/
+/*}*/
+
+/*.Flipped*/
+/*{*/
+    /*direction: rtl;*/
+/*}*/
+/*.Content*/
+/*{*/
+    /*direction: ltr;*/
+/*}*/
