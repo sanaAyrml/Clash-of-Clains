@@ -1,4 +1,1 @@
-سروش فرقدانی ۹۶۱۰۵۹۴۸
-ثنا آیرملو ۹۶۱۰۱۲۸۴
-96100436 رودابه صفوی
-This project is on gitlab
+Advanced Programming Course Project
